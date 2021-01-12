@@ -28,6 +28,7 @@
 #include <linux/types.h>
 #include <linux/device.h>
 #include <linux/usb/composite.h>
+#include <linux/usb/gadget.h>
 #include "viatel_rawbulk.h"
 
 #include <linux/module.h>
